@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVL0kpEACpAWzdCGYktOEMrZfAMXLvytRnY0OcMbxmnhjBmu5aefKsKc9tjzv5scR8qh40AC+ZYQSs3kWpMnbg==",
+  "success": true,
+  "projectFilePath": "g:\\My Drive\\School Work\\Software Frameworks\\Repos\\cs11dotnet7\\vscode\\PracticalApps\\Northwind.BlazorWasm\\Shared\\Northwind.BlazorWasm.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

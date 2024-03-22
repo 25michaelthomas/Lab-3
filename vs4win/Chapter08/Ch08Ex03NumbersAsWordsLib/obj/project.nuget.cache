@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "en5Sa6/0uRnIM4Rb4M4M83T8hJI+e0rNV82AoTo4/qvQQv7ordayGcas4ONYDycqw4jIwgppMBC3dZ8tyJQoAw==",
+  "success": true,
+  "projectFilePath": "g:\\My Drive\\School Work\\Software Frameworks\\Repos\\cs11dotnet7\\vs4win\\Chapter08\\Ch08Ex03NumbersAsWordsLib\\Ch08Ex03NumbersAsWordsLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5oEhRDmXv0bqdk1jde3fItvTr68qqckysok3rX/Fpq7OO5s35u31I441+iXrXC8Agd5Q9HrdehrmpZkiw1HOEw==",
+  "success": true,
+  "projectFilePath": "g:\\My Drive\\School Work\\Software Frameworks\\Repos\\cs11dotnet7\\vscode\\Chapter09\\WorkingWithStreams\\WorkingWithStreams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

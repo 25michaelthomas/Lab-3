@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyAfuPJWw/UuR2Oc7sEnx24cg7vUgAATbo8r/M3ggzqbQV02hs1WVv2/HDU3PF8GvPle9CM2KNwZa0tQbHZkjA==",
+  "success": true,
+  "projectFilePath": "g:\\My Drive\\School Work\\Software Frameworks\\Repos\\cs11dotnet7\\vs4win\\Chapter05\\PacktLibraryModern\\PacktLibraryModern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

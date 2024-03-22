@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3elP9xNJanbnEu6nITR5vQ8GFe2Zir5lWxJtABQyZulDUOhLTn/l61Xj//s3ubKw6ux9SCqZKkNoUntj1DOApQ==",
+  "success": true,
+  "projectFilePath": "g:\\My Drive\\School Work\\Software Frameworks\\Repos\\cs11dotnet7\\vscode\\Chapter04\\Ch04Ex02PrimeFactorsLib\\Ch04Ex02PrimeFactorsLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\moist\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
